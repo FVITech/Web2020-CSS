@@ -36,18 +36,14 @@
 
 - **Outcomes**: Customize a CSS framework to match organizational branding with the aid of a preprocessor.
 
-### 05: Modular Sass With BEM and SMACSS -  3 hrs
-- Treehouse Modular CSS: This will be a deeper dive into Sass. More importantly, it will introduce students to modularity and reusability. If codebases are well designed  companies can leverage these resusable pieces of code to stream-line their development cycle.
 
-- **Outcomes**: Introduction to modular thinking. More Sass (and thereby programming) proficiency.
-
-### 06: Flexbox Fundamentals and Layout - 1.25 hrs
+### 05: Flexbox Fundamentals and Layout - 1.25 hrs
 - Treehouse: Flexbox Layouts :Consensus is gaining that flexbox is the way forward with CSS. It is simple yet powerful abstraction for designing responsive UIs. However, the most appealing element of flexbox is it also lends itself perfectly to mobile development. Which means, one abstraction for all platforms.   
 - Introduce Flexbox Froggy
 
 - **Outcomes**: Ability to build a responsive layout using flexbox. Prepare for future courses on mobile layout.
 
-### 07: Initializing and Developing your Portfolio 
+### 06: Initializing and Developing your Portfolio
 - We will be given two design packages (fonts, color schemes, and assets, mockups). From these two packages well will implement two websites that promote fictitious businesses.  We should choose different css tools (sass, less, or flexbox) for each project to show our knowledge. The first versions of each will be deployed using github pages and initiate our portfolios.
 
 - **Outcomes**: Ability to deploy a project that is linked to the codebase. This gives employers a  coherent way to analyze the applicants portfolio.
