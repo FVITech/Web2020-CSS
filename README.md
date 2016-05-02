@@ -56,6 +56,8 @@
 - Lynda- Designing a Responsive Site with Bootstrap: Depending on progress, we can hold an extra session to reinforce bootstrap and css concepts. This will also serve as a gentle introduction to Javascript and jQuery.
 
 ### * Contents of this Repo:
-This repo will contain the most up to date starter kits for each module. However, it is just storage. There will be separate repos for student to clone, develop and deploy as there own.
+- This repo will contain the most up to date starter kits for each module. However, it is just storage. There will be separate repos for student to clone, develop and deploy as there own.
+
+
 
 1. [Bootstrap 4 Starter kit](https://github.com/wordyallen/BootStrap4Starter)
