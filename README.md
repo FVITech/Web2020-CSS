@@ -1,7 +1,7 @@
 # Web2020 - CSS:  Syllabus  :tada:
 
 
-### 00: Tooling: Making Sure We are All the Same Page
+### 00: Tooling: Making Sure We are All on the Same Page
 - New user account
 - Chrome Check
 - Slack: Web or Desktop
@@ -19,12 +19,12 @@
 ### 01: Bootstrap 4: Review and Upgrade
 - Treehouse - Bootstrap 4:  This module will help us review bootstrap basics, learn the newest version of bootstrap, and teach us how to follow a mockup.
 
-- **Outcomes**: Ability to implement a mockup using basic bootstrap styles
+- **Outcomes**: Ability to implement a mockup using basic bootstrap styles.
 
 ### 02: CSS Fundamentals
 - Treehouse - CSS Basics: This module will go over all of the core concepts and 'gotchas' in CSS. There is very little coding. Its important to focus on understanding the core concepts, seeing where css was and where it is going. As well as setting the context for how solutions like preprocessors and flexbox help companies maintain a competitive advantage.
 
-- **Outcomes**: Ability to reason about css behavior and solve css related problems
+- **Outcomes**: Ability to reason about css behavior and solve css related problems.
 
 ### 03: Converting From CSS to Sass
 - Treehouse - CSS to Sass:  This is our first dive into fundamentals of programming. Sass is a very simple (yet elegant) programming language. This module will introduce variables, if-statements, and loops. We will demonstrate how Sass helps keep our css DRY.  Most importantly, we will gain the in-demand skill of converting a plain CSS codebase to a more robust one that uses Sass.
@@ -57,7 +57,6 @@
 
 ### * Contents of this Repo:
 - This repo will contain the most up to date starter kits for each module. However, it is just storage. There will be separate repos for student to clone, develop and deploy as there own.
-
 
 
 1. [Bootstrap 4 Starter kit](https://github.com/wordyallen/BootStrap4Starter)
