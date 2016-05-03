@@ -17,7 +17,10 @@
 - **Outcomes**: Should be able to clone, install, start, and edit a repository
 
 ### 01: Bootstrap 4: Review and Upgrade -  2.25 hrs
-- Treehouse - Bootstrap 4:  This module will help us review bootstrap basics, learn the newest version of bootstrap, and teach us how to follow a mockup.
+- This module will help us review bootstrap basics, learn the newest version of bootstrap, and teach us how to follow a mockup.
+
+- Guided: Treehouse - Full Stack Conference
+- Unguided Pencil & Co.
 
 - **Outcomes**: Ability to implement a mockup using basic bootstrap styles.
 
