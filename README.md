@@ -23,7 +23,7 @@
 - **Outcomes**: Ability to implement a mockup using basic bootstrap styles.
 
 ### 02: CSS Fundamentals - 7 hrs
- - This module will go over all of the core concepts and 'gotchas' in CSS. There is very little coding. Its important to focus on understanding the core concepts, seeing where css was and where it is going. As well as setting the context for how solutions like preprocessors and flexbox help companies maintain a competitive advantage.
+ - In depth analyis of the  core concepts and 'gotchas' in CSS. There is very little coding. Its important to focus on understanding the core concepts, seeing where css was and where it is going. As well as setting the context for how solutions like preprocessors and flexbox help companies maintain a competitive advantage.
 
 - **Outcomes**: Ability to reason about css behavior and solve css related problems.
 
@@ -33,13 +33,14 @@
 - **Outcomes**: Familiarization with fundamentals of programming. Understand the  importance of DRY code. Ability to convert plain CSS codebase to one that uses a preprocessor.
 
 ### 04: Customizing Bootstrap with `Less` - 1.5hrs
--  Less is another common preprocessor. Less usage seems to be on the decline, however there are many codebases that still rely on it.  The goal of this module is to compare preprocessors and move past basic bootstrap styling. Organizations want designs that incorporate there logo, colors, and typography. Customizing a basic bootstrap layout will help achieve this goal.   
+-  Less is another common preprocessor. Less usage seems to be on the decline, however there are many codebases that still rely on it.  The goal of this module is to compare preprocessors and move past basic bootstrap styling. Organizations want designs that incorporate their logo, colors, and typography. Customizing a basic bootstrap layout will help achieve this goal.   
 
 - **Outcomes**: Customize a CSS framework to match organizational branding with the aid of a preprocessor.
 
 
 ### 05: Flexbox Fundamentals and Layout - 1.25 hrs
-- Consensus is gaining that flexbox is the way forward with CSS. It is simple yet powerful abstraction for designing responsive UIs. However, the most appealing element of flexbox is it also lends itself perfectly to mobile development. Which means, one abstraction for all platforms.   
+- Consensus is gaining that flexbox is the way forward with CSS. It is simple yet powerful abstraction for designing responsive UIs. However, the most appealing element of flexbox is it also lends itself perfectly to mobile development. 
+
 - Introduce Flexbox Froggy
 
 - **Outcomes**: Ability to build a responsive layout using flexbox. Prepare for future courses on mobile layout.
