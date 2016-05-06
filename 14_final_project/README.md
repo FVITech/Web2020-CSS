@@ -16,7 +16,7 @@ The Api endpoint for this project is located at
 
 <code>http://fvi-grad.com:4004/quiz</code>
 
-A GET request to this endpoint will return a JSON object which is an array containing objects with this structure:
+A GET request to this endpoint will return a JSON object which is an array containing five objects with this structure:
 
 <code>
 { 
@@ -36,6 +36,6 @@ This endpoint allows you to retrieve the correct answer to a question based on t
 http://fvi-grad.com:4004/quiz-get-answer/66555
 </code>
 
-Will produce the value "George Washington". You can then use this value to compare to whatever the user's answer was.
+Will produce the value "George Washington". You can then use this value to compare to whatever the user's answer was. Please note that the value "George Washington" is served by the API with a response type of "application/json" and therefore when the browser receives it it has quotes around it. You must use the Javascript eval function in order to evaluate the string and put its value into a new variable. You may also use the substring method to get rid of the first and last character (the quotes).
 
 You are free to use either radio buttons for your multiple choice or structure your quiz app as a short answer quiz.
