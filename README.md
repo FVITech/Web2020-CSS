@@ -1,5 +1,11 @@
 # Web2020 - CSS:  Syllabus  :tada:
 
+#Homework:
+
+Team Treehouse [Design Foundations](https://teamtreehouse.com/library/design-foundations)
+Team Treehouse [CSS Transitions and Transforms](https://teamtreehouse.com/library/css-transitions-and-transforms)
+(Extra Credit) [CSS Photoshop Foundations](https://teamtreehouse.com/library/photoshop-foundations)
+
 
 ### 00: Tooling: Making Sure We are All on the Same Page
 - New user account
@@ -39,7 +45,7 @@
 
 
 ### 05: Flexbox Fundamentals and Layout - 1.25 hrs
-- Consensus is gaining that flexbox is the way forward with CSS. It is simple yet powerful abstraction for designing responsive UIs. However, the most appealing element of flexbox is it also lends itself perfectly to mobile development. 
+- Consensus is gaining that flexbox is the way forward with CSS. It is simple yet powerful abstraction for designing responsive UIs. However, the most appealing element of flexbox is it also lends itself perfectly to mobile development.
 
 - Introduce Flexbox Froggy
 
