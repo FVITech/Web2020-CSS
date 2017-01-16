@@ -7,60 +7,38 @@ Team Treehouse [CSS Transitions and Transforms](https://teamtreehouse.com/librar
 (Extra Credit) [CSS Photoshop Foundations](https://teamtreehouse.com/library/photoshop-foundations)
 
 
-### 00: Tooling: Making Sure We are All on the Same Page
-- New user account
-- Chrome Check
-- Slack: Web or Desktop
-- Atom
-  - Packages: emmet, file-icons, css-color-underline, autosave
-- iTerm/Cmder
-  - Central folder
-  - Adding Atom to PATH
-  - Installing Node
-  - Installing/Configuring git
+### 01: Flexbox Intro and intro to CSS transitions and animations.
+The instructor introduces how to think in flexbox terms and the interplay between the flex-direction, align-items and justify-content. In addition, students are shown how to override these properties from the children element (by using align-self) and relative sizing of flex elements by using the flex-grow property. Class assignment is to implement the mockup in the 01-flexbox folder.
+
+During the second half of the class we start a discussion on css transitions and transforms following the [front end masters course](https://frontendmasters.com/courses/motion-design-css/#v=kg4ru7ne8g&p=0.5565)
+
+The day's goal is to finish the exercise with the cat and the ball.
+
+### 02: CSS Animations
+Following the front end masters course, we implement the cat walking animation and we have him move through the screen. We also do the wag the cat exercise and the first part of the alice in wonderland exercise.
+
+### 03: CSS Animation Project
+Students are tasked with creating their own css animation projects with a paralax background and using any of the assets in the 03-Animation-Assets folder.
+
+### 04: Finish CSS animation project and start Firebase
+We will build a firebase chat engine using the designs from [this ui kit](https://www.invisionapp.com/chat#!). After this day, the bare bones chat functionality and oauth login should be finished, as in [this repo](https://github.com/FVITech/firechat).
 
 
-- **Outcomes**: Should be able to clone, install, start, and edit a repository
-
-### 01: Bootstrap 4: Review and Upgrade -  2.25 hrs
-- This module will help us review bootstrap basics, learn the newest version of bootstrap, and teach us how to follow a mockup.
+### 05-06: Finish Firebase Project
+We finish the firebase project and on the bottom part of day 6 we have a flexbox test.
 
 
-- **Outcomes**: Ability to implement a mockup using basic bootstrap styles.
+### 07-08: CSS to SASS
+Follow team treehouse CSS to SASS course.
 
-### 02: CSS Fundamentals - 7 hrs
- - In depth analyis of the  core concepts and 'gotchas' in CSS. There is very little coding. Its important to focus on understanding the core concepts, seeing where css was and where it is going. As well as setting the context for how solutions like preprocessors and flexbox help companies maintain a competitive advantage.
+### 09 More practice with Flexbox via Bootstrap 4
+Implement [this UI design](07_BootStrap4/Pencil_and_Co/design.png) using flexbox only.
 
-- **Outcomes**: Ability to reason about css behavior and solve css related problems.
+Also implement this [wireframe](07_BootStrap4\FullStack_Conference\img)
 
-### 03: Converting From CSS to Sass - 1.25 hrs
-- First dive into fundamentals of programming. Sass is a very simple (yet elegant) programming language. This module will introduce variables, if-statements, and loops. We will demonstrate how Sass helps keep our css DRY.  Most importantly, we will gain the in-demand skill of converting a plain CSS codebase to a more robust one that uses Sass.
+### 10: CSS Gradients and final project
+We implement double gradient techniques in constructing the Lake Tahoe Page from the 08-Lake-Tahoe folder. We also start the quiz-app final project.
 
-- **Outcomes**: Familiarization with fundamentals of programming. Understand the  importance of DRY code. Ability to convert plain CSS codebase to one that uses a preprocessor.
+### 11: Finish Quiz app
 
-### 04: Customizing Bootstrap with `Less` - 1.5hrs
--  Less is another common preprocessor. Less usage seems to be on the decline, however there are many codebases that still rely on it.  The goal of this module is to compare preprocessors and move past basic bootstrap styling. Organizations want designs that incorporate their logo, colors, and typography. Customizing a basic bootstrap layout will help achieve this goal.   
-
-- **Outcomes**: Customize a CSS framework to match organizational branding with the aid of a preprocessor.
-
-
-### 05: Flexbox Fundamentals and Layout - 1.25 hrs
-- Consensus is gaining that flexbox is the way forward with CSS. It is simple yet powerful abstraction for designing responsive UIs. However, the most appealing element of flexbox is it also lends itself perfectly to mobile development.
-
-- Introduce Flexbox Froggy
-
-- **Outcomes**: Ability to build a responsive layout using flexbox. Prepare for future courses on mobile layout.
-
-### 06: Initializing and Developing your Portfolio
-- We will be given two design packages (fonts, color schemes, and assets, mockups). From these two packages well will implement two websites that promote fictitious businesses.  We should choose different css tools (sass, less, or flexbox) for each project to show our knowledge. The first versions of each will be deployed using github pages and initiate our portfolios.
-
-- **Outcomes**: Ability to deploy a project that is linked to the codebase. This gives employers a  coherent way to analyze the applicants portfolio.
-
-### Extra Iteration:  More Bootstrap and CSS
-- Depending on progress, we can hold an extra session to reinforce bootstrap and css concepts. This will also serve as a gentle introduction to Javascript and jQuery.
-
-### * Contents of this Repo:
-- This repo will contain the most up to date starter kits for each module. However, it is just storage. There will be separate repos for student to clone, develop and deploy as there own.
-
-
-1. [Bootstrap 4 Starter kit](https://github.com/wordyallen/BootStrap4Starter)
+### 12: Final exam
