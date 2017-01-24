@@ -23,4 +23,29 @@ For questions 1 through 8, start with the following html and css:
 }
 ```
 
-1) Create the following layout:
+###Question 1
+Describe the simplest CSS changes required to create the following layout:
+![Question 1](q1.png)
+
+###Question 2
+Describe the simplest CSS changes required to create the following layout:
+
+
+###Question 3
+Describe the simplest CSS changes required to create the following layout:
+
+
+###Question 4
+Describe the simplest CSS changes required to create the following layout:
+
+
+###Question 5
+Describe the simplest CSS changes required to create the following layout:
+
+
+###Question 6
+Describe the simplest CSS changes required to create the following layout:
+
+
+###Question 7
+Describe the simplest CSS changes required to create the following layout:
