@@ -29,7 +29,7 @@ We finish the firebase project and on the bottom part of day 6 we have a flexbox
 
 
 ### 07-08: CSS to SASS
-Follow team treehouse CSS to SASS course.
+Follow team treehouse CSS to SASS course, up until the variables section. The goal of these two days is to convert the firebase project into SASS.
 
 ### 09 More practice with Flexbox via Bootstrap 4
 Implement [this UI design](07_BootStrap4/Pencil_and_Co/design.png) using flexbox only.
