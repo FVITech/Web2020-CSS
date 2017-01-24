@@ -31,22 +31,37 @@ Describe the simplest CSS changes required to create the following layout:
 ###Question 2
 Describe the simplest CSS changes required to create the following layout:
 
+![Question 2](q2.png)
 
 ###Question 3
 Describe the simplest CSS changes required to create the following layout:
 
+![Question 3](q3.png)
 
 ###Question 4
 Describe the simplest CSS changes required to create the following layout:
 
+![Question 4](q4.png)
 
 ###Question 5
+(Hint, give the container a height of 300px)
 Describe the simplest CSS changes required to create the following layout:
 
+![Question 5](q5.png)
 
 ###Question 6
+(Hint, give the container a height of 300px)
 Describe the simplest CSS changes required to create the following layout:
 
+![Question 6](q6.png)
 
 ###Question 7
 Describe the simplest CSS changes required to create the following layout:
+
+![Question 7](q7.png)
+
+###Question 8
+(Hint: requires the flex-grow or flex shorthand property)
+Describe the simplest CSS changes required to create the following layout:
+
+![Question 8](q8.png)
