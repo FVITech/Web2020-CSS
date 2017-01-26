@@ -36,8 +36,18 @@ Implement [this UI design](07_BootStrap4/Pencil_and_Co/design.png) using flexbox
 
 Also implement this [wireframe](07_BootStrap4\FullStack_Conference\img)
 
-### 10: CSS Gradients and final project
-We implement double gradient techniques in constructing the Lake Tahoe Page from the 08-Lake-Tahoe folder. We also start the quiz-app final project.
+### 10: CSS Gradients, CSS Shapes and final project
+We implement double gradient techniques in constructing the Lake Tahoe Page from the 08-Lake-Tahoe folder. We use [CSS tricks](https://css-tricks.com/css3-gradients/) for a quick refresher on gradient syntax. We also start the quiz-app final project.
+
+We also discuss CSS shapes according to the pluralsight class [Thinking Outside the Box with CSS Shapes](https://app.pluralsight.com/player?course=css-shapes-thinking-outside-box&author=brian-treese&name=css-shapes-thinking-outside-box-m2&clip=5&mode=live). In particular, we focus on the shape-outside property, the clip property, and the shape sizing parameters margin-box, border-box, padding-box, and content-box.
+
+![Shapes](shapes.png)
+
+We also discuss how to use images with transparent background as CSS shapes with the shapeurl property and how to adjust the distance the text has from the shape with the shape-margin property.
+
+![Shape url](shapeurl.png)
+
+![Shape margin](shape-margin.png)
 
 ### 11: Finish Quiz app
 
