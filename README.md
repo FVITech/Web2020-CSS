@@ -18,7 +18,7 @@ The day's goal is to finish the exercise with the cat and the ball.
 Following the front end masters course, we implement the cat walking animation and we have him move through the screen. We also do the wag the cat exercise and the first part of the alice in wonderland exercise.
 
 ### 03: CSS Animation Project
-Students are tasked with creating their own css animation projects with a paralax background and using any of the assets in the 03-Animation-Assets folder.
+Students are tasked with creating their own css animation projects with a parallax background and using any of the assets in the 03-Animation-Assets folder.
 
 ### 04: Finish CSS animation project and start Firebase
 We will build a firebase chat engine using the designs from [this ui kit](https://www.invisionapp.com/chat#!). After this day, the bare bones chat functionality and oauth login should be finished, as in [this repo](https://github.com/FVITech/firechat).
