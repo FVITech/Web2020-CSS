@@ -7,11 +7,13 @@ The circles should stack on top of one another on screen sizes lower than 400px,
 
 ![Layout.png](Layout.png)
 
+**Publish your solution to fvi-grad.com under the following url: yourname.fvi-grad.com/web2020/test2. Failure to do this will result in no credit**
+
 #Question 2
 
 Finish the chat layout and the layout for the website you're working on.
 
-##Question 3
+##Question 3 (optional)
 
 Convert your personal website to SASS and convert your portfolio section to a similar format to that presented in question 1 (responsive flexbox with no media queries).
 
